@@ -28,3 +28,7 @@ events and also age,height and weight also shown.
 ## Demo
 
 
+
+https://user-images.githubusercontent.com/67147642/163847858-fdd37720-38c3-4620-b153-66cd7dae6e25.mp4
+
+
